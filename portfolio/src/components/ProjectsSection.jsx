@@ -58,7 +58,17 @@ const projects = [
     tags: ["Reacjs", "tailwindcss"],
     demoUrl: "https://fastfingers-gpif.onrender.com/",
     githubUrl: "https://github.com/Fazal0567/FastFingers"
+  },
+  {
+    id: 7,
+    title: "Interview-Prep",
+    description:"Get interview questions and model answers based on your role, experience, and specific focus areas — no filler, just what matters. ",
+    image: "/projects/project7.png",
+    tags: ["MongoDb", "ExpressJs","ReactJs","NodeJs"],
+    demoUrl: "https://interview-prep-dxrh.onrender.com/",
+    // githubUrl: "https://github.com/Fazal0567/FastFingers"
   }
+
 ];
 
 export const ProjectsSection = () => {
