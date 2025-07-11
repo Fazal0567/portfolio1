@@ -58,7 +58,8 @@ const projects = [
     tags: ["Reacjs", "tailwindcss"],
     demoUrl: "https://fastfingers-gpif.onrender.com/",
     githubUrl: "https://github.com/Fazal0567/FastFingers"
-  },
+  }
+  /*
   {
     id: 7,
     title: "Interview-Prep",
@@ -68,6 +69,7 @@ const projects = [
     demoUrl: "https://interviewprep-69yw.onrender.com/",
     // githubUrl: "https://github.com/Fazal0567/FastFingers"
   }
+  */
 
 ];
 
