@@ -65,7 +65,7 @@ const projects = [
     description:"Get interview questions and model answers based on your role, experience, and specific focus areas — no filler, just what matters. ",
     image: "/projects/project7.png",
     tags: ["MongoDb", "ExpressJs","ReactJs","NodeJs"],
-    demoUrl: "https://interview-prep-dxrh.onrender.com/",
+    demoUrl: "https://interviewprep-69yw.onrender.com/",
     // githubUrl: "https://github.com/Fazal0567/FastFingers"
   }
 
